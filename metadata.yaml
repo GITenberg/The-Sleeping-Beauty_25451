@@ -28,6 +28,8 @@ description: <p>With a kiss, a sleeping princess is awakened from her cursed sle
   brings great works of literature to life in digital format, upholding the highest
   standards in ebook production and celebrating reading in all its forms. Look for
   more titles in the HarperPerennial Classics collection to build your digital library.</p>
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25451#The-Sleeping-Beauty
 gutenberg_issued: '2008-05-12'
 gutenberg_type: Text
 identifiers:
